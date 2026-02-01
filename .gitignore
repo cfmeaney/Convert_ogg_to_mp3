@@ -1,0 +1,5 @@
+venv/
+Inputs_mp3/*
+!Inputs_mp3/.gitkeep
+Outputs_ogg/*
+!Outputs_ogg/.gitkeep
