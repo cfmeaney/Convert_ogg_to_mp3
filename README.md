@@ -28,5 +28,5 @@ python Convert_mp3_to_ogg.py
 3. Retrieve your converted .ogg files from
 
 ```
-Outputs.ogg/
+Outputs_ogg/
 ```
